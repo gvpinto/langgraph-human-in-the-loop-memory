@@ -121,3 +121,4 @@ Thumbs.db
 .chroma_db/
 
 output.json
+checkpoints.sqlite
